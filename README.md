@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DhruvSharma0001
 - 👀 I’m interested in ... coading and hacking 
-- 🌱 I’m currently learning ... java and python
-- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... luminaryinbox@gmail.com
 
 <!---
